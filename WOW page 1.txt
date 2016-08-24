@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <style>
+	div.mlg{
+	   color:red;
+	   font-size:64px;
+	   text-align:center;
+	}
+	body {
+	    background-image: url("horde3.jpg")
+	}
+	img.kek{
+	position: absolute;
+	right:300px;
+	top: 300px;
+	}
+	p.normal{
+	font-size:32px;
+	color:black;
+	
+	
+		}
+        </style> 
+    </head>
+    <body>
+<div class="mlg"> About me </div>
+<p class="normal"> I main a Night Elf Monk on Tichondrius(Horde) I am the bank Officer of Live Horde or Die Trying.
+ I originally played on Shu'Halo<font color=blue>(Alliance)</font></p>
+
+    </body>  
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <style>
+	div.mlg{
+	   color:red;
+	   font-size:64px;
+	   text-align:left;
+	}
+	body {
+	    background-image: url("horde3.jpg")
+	}
+	img.kek{
+	position: absolute;
+	right:300px;
+	top: 300px;
+	}
+	p.normal{
+	font-size:32px;
+	color:black;
+	
+	
+		}
+        </style> 
+    </head>
+    <body>
+
+<img src="charhead.png">    <div class="mlg">Welcome to the page of EmoJess Bank officer of Live Horde or Die Trying
+        </div>
+<div class="mlg">
+We Made our 600k goal!
+</div>
+<p class="normal">
+This is the work in Progress website, soon there shall be more....
+</p>
+</div>
+    </body>  
+</html>
